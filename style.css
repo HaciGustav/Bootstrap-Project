@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    
+}
+.banner{
+    background-image: url(./img/banner.jpeg);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-top: 20%;
+}
+.icon{
+    /* border-radius: 50%; */
+    padding: 2rem;
+    padding-bottom: 2.5rem;
+    padding-top: 2.5rem;
+}
+.icon-mid{
+    padding:2.5rem;
+}
+.crd{
+    object-fit: cover;
+}
