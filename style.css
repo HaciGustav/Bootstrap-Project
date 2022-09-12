@@ -58,3 +58,9 @@ a{
 .banner h2{
     color:#3A445D ;
 }
+.bannerWrapper{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+}
