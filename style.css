@@ -25,7 +25,30 @@
     object-fit: cover;
     
 }
-.img-wrapper{
+.profilePic{
+    background-image: url(https://ca.slack-edge.com/T03LBL87DA8-U03MX0ZTZGQ-cffa7af04dfd-512);
+    background-position: center;
+    background-size: cover;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    border:0.5rem solid rgb(128, 128, 128);
     
-    
+}
+.social{
+    padding: 0.5rem;
+    background-color: black;
+    border-radius: 50%;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+.links img{
+    width: 10rem;
+}
+.contact{
+    background-image: url(./img/map.jpeg);
+    background-position: center;
+    background-size: cover;
 }
